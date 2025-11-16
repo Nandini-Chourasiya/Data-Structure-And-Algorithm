@@ -10,7 +10,7 @@ int main(){
     if(n==1)
     cout<<"True";
     
-    for( int i=2;i<=n;i*=2){
+    for( int i=2;i<=n;i*=2){ //n&(n-1) == 0
         if(i==n)
       cout<<"True";
     }
