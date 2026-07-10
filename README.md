@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
+| [0221-maximal-square](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
 | [0983-minimum-cost-for-tickets](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0983-minimum-cost-for-tickets) |
 ## Memoization
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0039-combination-sum) |
+| [0221-maximal-square](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0221-maximal-square) |
 | [0983-minimum-cost-for-tickets](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0983-minimum-cost-for-tickets) |
 | [1122-relative-sort-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1122-relative-sort-array) |
 ## Hash Table
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
