@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
 | [0983-minimum-cost-for-tickets](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1402-reducing-dishes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1402-reducing-dishes) |
 ## Memoization
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1122-relative-sort-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1122-relative-sort-array) |
+| [1402-reducing-dishes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1402-reducing-dishes) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1122-relative-sort-array) |
+| [1402-reducing-dishes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1402-reducing-dishes) |
 ## Counting Sort
 |  |
 | ------- |
@@ -50,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0221-maximal-square) |
+## Greedy
+|  |
+| ------- |
+| [1402-reducing-dishes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1402-reducing-dishes) |
 <!---LeetCode Topics End-->
