@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0039-combination-sum) |
+| [0118-pascals-triangle](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0983-minimum-cost-for-tickets](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0983-minimum-cost-for-tickets) |
