@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0983-minimum-cost-for-tickets](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1388-pizza-with-3n-slices](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Memoization
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1122-relative-sort-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
+| [1388-pizza-with-3n-slices](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Hash Table
@@ -66,9 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1388-pizza-with-3n-slices](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1402-reducing-dishes) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1388-pizza-with-3n-slices](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1388-pizza-with-3n-slices) |
 <!---LeetCode Topics End-->
