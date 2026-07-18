@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0983-minimum-cost-for-tickets](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0983-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1388-pizza-with-3n-slices](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1388-pizza-with-3n-slices) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0983-minimum-cost-for-tickets](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0983-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1122-relative-sort-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1027-longest-arithmetic-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1027-longest-arithmetic-subsequence) |
 | [1122-relative-sort-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1027-longest-arithmetic-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
