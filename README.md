@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1027-longest-arithmetic-subsequence) |
 | [1122-relative-sort-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
