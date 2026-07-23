@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
@@ -124,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0222-count-complete-tree-nodes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0222-count-complete-tree-nodes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 ## Enumeration
 |  |
@@ -137,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
