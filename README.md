@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
 ## Matrix
 |  |
@@ -129,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0096-unique-binary-search-trees) |
+| [0199-binary-tree-right-side-view](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0096-unique-binary-search-trees) |
+| [0199-binary-tree-right-side-view](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 ## Enumeration
 |  |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
