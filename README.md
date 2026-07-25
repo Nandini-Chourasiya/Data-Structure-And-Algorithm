@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0279-perfect-squares) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [3536-maximum-product-of-two-digits](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
