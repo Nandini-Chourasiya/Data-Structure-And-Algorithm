@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0118-pascals-triangle) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -174,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
