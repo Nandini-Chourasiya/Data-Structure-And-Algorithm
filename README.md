@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0645-set-mismatch) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
 | ------- |
