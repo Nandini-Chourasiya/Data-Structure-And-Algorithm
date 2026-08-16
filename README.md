@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1388-pizza-with-3n-slices](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1402-reducing-dishes) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1027-longest-arithmetic-subsequence) |
 | [1122-relative-sort-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sorting
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1402-reducing-dishes) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
