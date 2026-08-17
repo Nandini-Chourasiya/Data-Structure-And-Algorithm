@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0118-pascals-triangle) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0039-combination-sum) |
 ## Breadth-First Search
 |  |
@@ -189,9 +191,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0022-generate-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0682-baseball-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
