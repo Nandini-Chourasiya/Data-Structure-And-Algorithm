@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
