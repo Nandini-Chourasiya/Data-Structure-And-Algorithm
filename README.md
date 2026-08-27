@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0682-baseball-game) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0022-generate-parentheses) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
