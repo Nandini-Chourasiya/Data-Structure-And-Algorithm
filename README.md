@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0039-combination-sum) |
 | [0118-pascals-triangle](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0221-maximal-square) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1027-longest-arithmetic-subsequence) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
