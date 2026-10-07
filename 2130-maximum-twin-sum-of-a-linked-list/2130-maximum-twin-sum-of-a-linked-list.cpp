@@ -10,42 +10,31 @@
  */
 class Solution {
 public:
-    int count(ListNode* head){
-       int r = 0;
-       while(head){
-          r++;
-          head = head->next;
-       }
-    return r;
-    }
-
     int pairSum(ListNode* head) {
-        int c = count(head);
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        if(c == 2){
-            return head->val + head->next->val;
-        }
-        c = c/2;
+        while(fast && fast->next){
+          slow = slow->next;
+          fast = fast->next->next;
+        } 
 
-        ListNode* mid = head;
-        while(c--){
-          mid = mid->next;
+       ListNode* prev = NULL;
+       ListNode* curr = slow;
+       while(curr) {
+            ListNode* a = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = a;
         }
-
-        stack<int> st;
-        while( mid){
-           st.push( mid->val);
-           mid = mid->next;
-        }
-        
         int maxi = INT_MIN;
-        while(!st.empty()){
-            int add = head->val + st.top();
-            st.pop();
-            head = head->next;
-            maxi = max(add,maxi);
+        while(prev){
+           int a = prev->val+head->val;
+           maxi = max(a,maxi);
+           prev = prev->next;
+           head = head->next;
         }
-
         return maxi;
     }
 };
+
