@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0058-length-of-last-word) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
