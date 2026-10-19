@@ -234,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
