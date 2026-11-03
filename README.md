@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0645-set-mismatch) |
 | [0997-find-the-town-judge](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0997-find-the-town-judge) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1027-longest-arithmetic-subsequence) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1122-relative-sort-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1122-relative-sort-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [1388-pizza-with-3n-slices](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1388-pizza-with-3n-slices) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Number Theory
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0058-length-of-last-word) |
+| [0451-sort-characters-by-frequency](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -251,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
