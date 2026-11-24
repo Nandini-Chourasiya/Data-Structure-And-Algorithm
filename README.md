@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
