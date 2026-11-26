@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0598-range-addition-ii](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0645-set-mismatch) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0645-set-mismatch) |
 | [0997-find-the-town-judge](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0997-find-the-town-judge) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1027-longest-arithmetic-subsequence) |
@@ -275,5 +277,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Nandini-Chourasiya/Data-Structure-And-Algorithm/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
